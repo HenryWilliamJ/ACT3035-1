@@ -8,8 +8,7 @@ En plus des donnnés que nous utilisons en classe se trouvant dans le répertoir
 
 <ul>
 <li>
-<p><a href="https://ouvert.canada.ca/fr/donnees-ouvertes" rel="nofollow">
-Données ouvertes du gouvernement du Canada</a></p>
+<p><a href="https://ouvert.canada.ca/fr/donnees-ouvertes" rel="nofollow">Gouvernement du Canada – Données ouvertes</a></p>
 </li>
 <li>
 <p><a href="https://www.donneesquebec.ca/fr/" rel="nofollow">
@@ -42,9 +41,6 @@ Portail données ouvertes Montréal</a></p>
 </li>
 <li>
 <p><a href="https://donnees.banquemondiale.org/" rel="nofollow">Les données ouvertes de la Banque mondiale</a></p>
-</li>
-<li>
-<p><a href="https://ouvert.canada.ca/fr/donnees-ouvertes" rel="nofollow">Gouvernement du Canada – Données ouvertes</a></p>
 </li>
 <li>
 <p><a href="https://www.data.gov/" rel="nofollow">Données ouvertes des gouvernements des États-Unis: Data.gov</a></p>
