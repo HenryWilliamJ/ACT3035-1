@@ -1,9 +1,8 @@
 | Cours_4| Exercices_4| Solutions_4 |
 |:--------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|
-|[caractères, dates et heures, Manipulation de fichiers](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_6/5_4_cours_carac_data_fichiers.ipynb?flush_cache=true)| [Exercices et Solutions](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/ETE_2019/HIV_2019/cours_6/4_3_Exercices_Solutions.ipynb?flush_cache=true)   ||
+|[caractères, dates et heures, Manipulation de fichiers](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_6/5_4_cours_carac_data_fichiers.ipynb?flush_cache=true)| [Exercices et Solutions](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_6/4_3_Exercices_Solutions.ipynb?flush_cache=true)   ||
 ||[Examen intra H19](https://github.com/nmeraihi/ACT3035/blob/master/ETE_2019/cours_4/H19_R_Intra.pdf)|[Solutions](https://github.com/nmeraihi/ACT3035/blob/master/ETE_2019/cours_4/BRUH123456_solution.R)|
 |[Script](https://github.com/nmeraihi/ACT3035/blob/master/ETE_2019/cours_4/script_4.R) || |
-
 
 
 | Cours_3| Exercices_3| Solutions_3 |
