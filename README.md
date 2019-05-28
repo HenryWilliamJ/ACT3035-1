@@ -8,6 +8,18 @@ En plus des donnnés que nous utilisons en classe se trouvant dans le répertoir
 
 <ul>
 <li>
+<p><a href="https://ouvert.canada.ca/fr/donnees-ouvertes" rel="nofollow">
+Données ouvertes du gouvernement du Canada</a></p>
+</li>
+<li>
+<p><a href="https://www.donneesquebec.ca/fr/" rel="nofollow">
+Données Québec</a></p>
+</li>
+<li>
+<p><a href="http://donnees.ville.montreal.qc.ca/" rel="nofollow">
+Portail données ouvertes Montréal</a></p>
+</li>
+<li>
 <p><a href="https://www144.statcan.gc.ca/sdg-odd/index-eng.htm" rel="nofollow">Sustainable Development Goals Data Hub</a></p>
 </li>
 <li>
