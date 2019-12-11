@@ -1,11 +1,10 @@
 # ACT3035, Examen final de l'automne 2019
 
-# OGP Summit Hackathon Sommet PGO
 
 <center>
     <object data="telechargement_trousseExam_zip.pdf" type="application/pdf" width="700px" height="1200px">
         <embed src="telechargement_trousseExam_zip.pdf">
-            <img src="telechargement_trousseExam_zip.pdf">
+            <img src="telechargement_trousseExam_zip.png">
         </embed>
     </object>
 </center>
