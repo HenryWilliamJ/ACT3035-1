@@ -5,7 +5,7 @@
 <center>
     <object data="telechargement_trousseExam_zip.pdf" type="application/pdf" width="700px" height="1200px">
         <embed src="telechargement_trousseExam_zip.pdf">
-            <img src="telechargement_trousseExam_zip.jpg">
+            <img src="telechargement_trousseExam_zip.pdf">
         </embed>
     </object>
 </center>
