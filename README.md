@@ -1,5 +1,5 @@
 
-Bienvenue dans le cours ACT3035! Dans ce répertoire GitHyb, vous pouvez retrouver tout le matériel utilisé chaque session. 
+Bienvenue dans le cours ACT3035! Dans ce répertoire GitHub, vous pouvez retrouver tout le matériel utilisé chaque session. 
 
 Si vous voulez consulter le contenu du cours planifié, suivez ce [lien http://nour.me/act3035/](http://nour.me/act3035/)
 
